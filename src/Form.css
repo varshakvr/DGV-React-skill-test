@@ -1,0 +1,43 @@
+.full {
+    width: 450px;
+    height: 580px;
+    border: 3px solid rgb(66, 64, 64);
+    margin-left: 450px;
+    margin-top: 30px;
+}
+
+.topic {
+    width: 600px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+
+.fname {
+    color: black;
+    width: 600px;
+    font-size: 15px;
+    margin-left: 80px;
+}
+
+.text {
+    /* width: 600px; */
+    margin-left: 80px;
+    width: 300px;
+    height: 30px;
+}
+
+.please {
+    margin-left: 80px;
+    color: rgb(130, 42, 165);
+    font-size: 15px;
+    width: 600px;
+}
+
+.submit {
+    margin-left: 200px;
+    width: 80px;
+    height: 25px;
+}
