@@ -1,0 +1,115 @@
+
+.name {
+    height: 35px;
+    margin-left: 200px;
+    width: 200px;
+    margin-top: 100px;
+    border-color: orange;
+    border-style: ridge;
+    border-width: medium;
+}
+
+.submit {
+    margin-left: 650px;
+    margin-top: 570px;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 5px;
+    background-color: peachpuff;
+    border-style: hidden;
+}
+
+.tagone {
+    margin-left: 60px;
+    margin-top: 100px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: bolder;
+    position: absolute;
+    font-size: 35px;
+}
+
+.email {
+    margin-left: 200px;
+    width: 200px;
+    margin-top: -50px;
+    border-style: ridge;
+    position: absolute;
+    border-width: medium;
+    height: 35px;
+}
+
+.full {
+    border: 0px;
+    margin-left: 170px;
+    margin-top: 130px;
+    height: 400px;
+    width: 500px;
+    background-color: rgb(150, 222, 139);
+
+    position: absolute;
+}
+
+.tagtwo {
+    margin-left: 60px;
+    margin-top: 120px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+.answer {
+    border: 2px;
+    background-color: rgb(247, 149, 149);
+    height: 400px;
+    /* visibility: hidden; */
+    width: 580px;
+    margin-left: 670px;
+    margin-top: -493px;
+}
+
+.tagthree {
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: bolder;
+    visibility: visible;
+    margin-top: 100px;
+    margin-left: 50px;
+    position: absolute;
+}
+
+.whole {
+    background: linear-gradient(rgb(243, 132, 212), rgb(187, 216, 108));
+    height: 645px;
+}
+
+.tagfour {
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: bolder;
+    margin-top: 250px;
+    visibility: visible;
+    margin-left: 30px;
+    position: absolute;
+}
+
+.ansone {
+    font-size: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: bolder;
+    margin-top: 100px;
+    margin-left: 170px;
+    position: absolute;
+    visibility: visible;
+}
+
+.anstwo {
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    font-weight: bolder;
+    visibility: visible;
+    margin-top: 250px;
+    margin-left: 150px;
+    position: absolute;
+}
