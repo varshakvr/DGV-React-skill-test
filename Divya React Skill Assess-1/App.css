@@ -1,0 +1,27 @@
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .shopping-card {
+    justify-content: space-between;
+    background-color: 	#C71585;
+    padding: 20px 30px;
+    font-size: larger;
+    color:whitesmoke;
+  }
+  
+  .product-item {
+    padding: 20px;
+  }
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 50px;
+    /* margin-left:300px; */
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
